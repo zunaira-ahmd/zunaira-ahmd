@@ -51,11 +51,6 @@ Started with Candy Crush in high school. Now I am an AI Engineer focused on Lang
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
-##
-<br>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=238636&center=true&width=435&lines=Building+one+commit+at+a+time!" alt="Typing SVG" /></a>
-</div>
 
 ##
 <p align = "center">
