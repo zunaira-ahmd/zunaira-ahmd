@@ -51,14 +51,6 @@ Started with Candy Crush in high school. Now I am an AI Engineer focused on Lang
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
-## 📊 Statistics:
-
-<br>
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=zunaira-ahmd&include_all_commits=true&pixelate_avatar=false&theme=road_trip" alt="zunaira-ahmd's Stats">
-<a href="https://github.com/zunaira-ahmd/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fawn-seven-41.vercel.app/api?username=zunaira-ahmd&theme=gruvbox&hide_border=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaira-ahmd&theme=gruvbox&show_icons=true&hide_border=true&layout=donut" alt="zunaira-ahmd's Top Languages">
-</div>
 
 
 ##
