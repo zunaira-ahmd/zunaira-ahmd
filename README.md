@@ -1,5 +1,7 @@
-## 👋 Hey, I am Syeda Zunaira Ahmed
-Started with Candy Crush in high school. Now I am an AI Engineer focused on LangChain, RAG pipelines and agentic systems. I've built products for founders and teams across different industries.
+
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Zunaira%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Data%20Scientist&descAlignY=51&descAlign=77" width="100%"/> </div>
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zunaira-ahmd&&style=flat-square" align="center" />
@@ -50,17 +52,6 @@ Started with Candy Crush in high school. Now I am an AI Engineer focused on Lang
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-
-## 🏆 Trophies:
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=zunaira-ahmd&column=-1&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 📊 Statistics:
-
-<br>
-<img width=1200 src="https://pixel-profile.vercel.app/api/github-stats?username=zunaira-ahmd&include_all_commits=true&pixelate_avatar=false&hide=avatar&background=linear-gradient%28320deg%2C+%23126134ff+0%25%2C+%23231e386c+60%25%29&color=%2300FFFFFF" alt="zunaira-ahmd's Stats">
-</div>
 
 
 ##
