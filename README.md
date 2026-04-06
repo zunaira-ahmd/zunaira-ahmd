@@ -1,16 +1,18 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Zunaira%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%EF%BC%86%20Data%20Scientist&descAlignY=51&descAlign=72.5" width="100%"/> </div>
 
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Zunaira%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Data%20Scientist&descAlignY=51&descAlign=77" width="100%"/> </div>
+## 🌐 Connect with Me  
+
+<div align="center">
+	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-zunaira-ahmed/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira.ahmd11@gmail.com)
+</div>
+
+## 🛠️ Languages & Tools   
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=zunaira-ahmd&&style=flat-square" align="center" />
-</div>
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-zunaira-ahmed/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira.ahmd11@gmail.com)
-
-## 🛠️ Languages & Tools   
+	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,8 +55,15 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
+</div>
 
-##
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
-</p>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zunaira-ahmd&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" align="center" />
+
+</div>
+
+
+
+<img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zunaira-ahmd&bg_color=RRGGBBAA&title_color=E75480&color=E75480&line=E75480&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
