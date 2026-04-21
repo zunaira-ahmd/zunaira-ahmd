@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=DE3163&center=true&repeat=false&width=600&height=60&lines=Hello+there!+I'm+Zunaira" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=60&duration=2000&pause=3000&color=DE3163&center=true&repeat=false&width=700&height=100&lines=Hello+there!+I'm+Zunaira" alt="Typing SVG" />
     </a>
 </div>
 
@@ -8,17 +8,18 @@
 <!-- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Zunaira%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%EF%BC%86%20Data%20Scientist&descAlignY=51&descAlign=72.5" width="100%"/> </div> -->
 
 
-## 🌐 Connect with Me  
-
 <div align="center">
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-zunaira-ahmed/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira.ahmd11@gmail.com)
+
+
+
+# 🛠️ Tech Stack 
+
 </div>
 
-## 🛠️ Languages & Tools   
-
-
 <div align="center">
+
 	
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
